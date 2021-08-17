@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T08:11:43.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="yliHAm8bMWHsg0S4l-im" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-17T02:15:48.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="lSWRVLenC_cIIJWnrj7N" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,10 +32,54 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c6KwMr1C9ZmebhnOMLPQ" name="会员卡模块">
-    <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-0" />
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-1" parent="0v7XvNgxlaDYC2Ruj6FT-0" />
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-2" value="VipCard" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="150" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-3" value="PointBalance" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="150" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-4" value="Object" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="359" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-6" value="Vipcard" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="-220" y="520" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" target="0v7XvNgxlaDYC2Ruj6FT-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-110" y="544.5" as="sourcePoint" />
+            <mxPoint x="50" y="544.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-9" value="积分规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0v7XvNgxlaDYC2Ruj6FT-7">
+          <mxGeometry x="0.1044" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-8" value="Condition" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="100" y="520" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-10" value="VipGrade" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="260" y="660" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-11" value="vipGroup" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="-10" y="660" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-13" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-10" target="0v7XvNgxlaDYC2Ruj6FT-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="530" as="sourcePoint" />
+            <mxPoint x="450" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-15" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.6;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-11" target="0v7XvNgxlaDYC2Ruj6FT-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-180" y="770" as="sourcePoint" />
+            <mxPoint x="-150" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
