@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T07:08:35.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="RdsKoa9I2bFNUmk1xQxx" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-18T07:53:35.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="6aX3VhkJEwTfZDHljYq8" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c6KwMr1C9ZmebhnOMLPQ" name="会员卡模块">
-    <mxGraphModel dx="2253" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-0" />
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-1" parent="0v7XvNgxlaDYC2Ruj6FT-0" />
@@ -50,14 +50,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-8" value="ConditionSetting" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-8" target="0v7XvNgxlaDYC2Ruj6FT-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-8" value="积分规则" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="120" y="520" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-10" value="VipGrade" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="-140" y="760" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-11" value="vipGroup" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="370" y="700" width="110" height="50" as="geometry" />
+          <mxGeometry x="340" y="750" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-16" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-11" target="0v7XvNgxlaDYC2Ruj6FT-10">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -125,7 +128,7 @@
           <mxGeometry x="-250" y="1440" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-36" value="积分规则" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="-530" y="1360" width="140" height="70" as="geometry" />
+          <mxGeometry x="140" y="1340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-37" value="积分升降级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="-70" y="1640" width="140" height="70" as="geometry" />
@@ -231,6 +234,53 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-560" y="1760" as="sourcePoint" />
             <mxPoint x="-400" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-73" value="定时任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="-470" y="1840" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-75" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-73" target="0v7XvNgxlaDYC2Ruj6FT-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-300" y="1790" as="sourcePoint" />
+            <mxPoint x="-60" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-76" value="定时变更" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0v7XvNgxlaDYC2Ruj6FT-75">
+          <mxGeometry x="0.1382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-77" value="积分获取" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="304" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-78" value="积分抵扣" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="304" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-79" value="积分升级" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="304" y="490" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-82" value="积分降级" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="310" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-83" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-79" target="0v7XvNgxlaDYC2Ruj6FT-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="10" y="730" as="sourcePoint" />
+            <mxPoint x="170" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-84" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-82">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="710" as="sourcePoint" />
+            <mxPoint x="-30" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-85" value="VipPointCard" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="-150" y="970" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-86" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0.564;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-10" target="0v7XvNgxlaDYC2Ruj6FT-85">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-340" y="860" as="sourcePoint" />
+            <mxPoint x="-180" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
