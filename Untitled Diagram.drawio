@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T03:20:13.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="fMCJva0Q2RPDvYB6dfwf" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-18T04:02:18.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="C7gqLoB7i61iJX9_YkQV" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,15 +36,6 @@
       <root>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-0" />
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-1" parent="0v7XvNgxlaDYC2Ruj6FT-0" />
-        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-2" value="VipCard" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="150" y="250" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-3" value="PointBalance" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="150" y="330" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-4" value="Object" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="359" y="240" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-6" value="Vipcard" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="-220" y="520" width="110" height="50" as="geometry" />
         </mxCell>
