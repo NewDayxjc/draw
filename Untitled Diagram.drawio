@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T03:13:35.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Wy7C49k3x3knj6Iz3use" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-18T03:13:46.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ZKYD-Hx1A7F99QnVmNzO" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-17" value="关联关系" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=30;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="-60" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="-70" y="330" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-18" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.59;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" target="0v7XvNgxlaDYC2Ruj6FT-17">
           <mxGeometry width="160" relative="1" as="geometry">
