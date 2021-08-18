@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T07:54:59.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="7ikzaaNL_5bPd-15FG3S" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-18T08:52:27.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="wxJ7ME9R7GVZeygD1WFU" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,13 +128,13 @@
           <mxGeometry x="-250" y="1440" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-36" value="积分规则" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="140" y="1340" width="140" height="70" as="geometry" />
+          <mxGeometry x="120" y="1320" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-37" value="积分升降级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="-70" y="1640" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-39" value="积分过期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="-260" y="1860" width="140" height="70" as="geometry" />
+          <mxGeometry x="-240" y="1870" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-41" value="积分日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="310" y="1620" width="140" height="70" as="geometry" />
@@ -237,7 +237,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-73" value="定时任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="-470" y="1840" width="140" height="70" as="geometry" />
+          <mxGeometry x="-500" y="1810" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-75" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-73" target="0v7XvNgxlaDYC2Ruj6FT-37">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -285,6 +285,24 @@
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-87" value="积分升降级" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="580" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-88" value="触发" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-39" target="0v7XvNgxlaDYC2Ruj6FT-73">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-700" y="1920" as="sourcePoint" />
+            <mxPoint x="-540" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-90" value="积分获取" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="301" y="1190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-91" value="积分抵扣" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="301" y="1260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-92" value="积分升级" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="301" y="1330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-93" value="积分降级" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="307" y="1410" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
