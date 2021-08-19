@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T07:08:16.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ZeDrY-k7EyCgseusb0mL" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-19T07:09:22.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="FV-tKE8-N7rQDiWcYuAK" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -332,7 +332,7 @@
           <mxGeometry x="540" y="975" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-111" value="当月消费金额应达到数额" style="ellipse;whiteSpace=wrap;html=1;" parent="0v7XvNgxlaDYC2Ruj6FT-1" vertex="1">
-          <mxGeometry x="850" y="1520" width="120" height="51" as="geometry" />
+          <mxGeometry x="990" y="1459" width="120" height="51" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-112" value="PointLog" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="0v7XvNgxlaDYC2Ruj6FT-1" vertex="1">
           <mxGeometry x="94" y="1771" width="216" height="268" as="geometry" />
@@ -368,7 +368,7 @@
           <mxGeometry y="242" width="216" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-125" value="对应级别应新增积分数额---当月" style="ellipse;whiteSpace=wrap;html=1;" parent="0v7XvNgxlaDYC2Ruj6FT-1" vertex="1">
-          <mxGeometry x="910" y="1571" width="120" height="51" as="geometry" />
+          <mxGeometry x="980" y="1575.5" width="120" height="51" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-128" value="&lt;span style=&quot;font-weight: 700&quot;&gt;不同级别升级 消费｜积分所需数额，&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="0v7XvNgxlaDYC2Ruj6FT-1" vertex="1">
           <mxGeometry x="520" y="1350" width="120" height="51" as="geometry" />
@@ -449,7 +449,7 @@
           <mxGeometry x="690" y="1285" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5m7yB-Qquv6QhmJtsKDo-0" value="PointUpgrade" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="470" y="1415" width="290" height="372" as="geometry" />
+          <mxGeometry x="470" y="1415" width="290" height="398" as="geometry" />
         </mxCell>
         <mxCell id="5m7yB-Qquv6QhmJtsKDo-1" value="compangOrgId  -所在地区 适用于新人入会" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="26" width="290" height="26" as="geometry" />
@@ -463,35 +463,38 @@
         <mxCell id="5m7yB-Qquv6QhmJtsKDo-4" value="VipGradeId    -会员等级" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="104" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-8" value="ValidDateFrom  -规则生效开始日期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-16" value="PointOperationType    -积分操作类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="130" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-9" value="ValidDateTo     -规则生效结束日期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-8" value="ValidDateFrom  -规则生效开始日期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="156" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-10" value="UpgradeType    -升级类型   1：积分2:净销售金额" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-9" value="ValidDateTo     -规则生效结束日期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="182" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-11" value="UpgradeValue    -升级Value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-10" value="UpgradeType    -升级类型   1：积分2:净销售金额" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="208" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-12" value="Description    -描述" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-11" value="UpgradeValue    -升级Value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="234" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-13" value="RuleCode    -PointRulecode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-12" value="Description    -描述" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="260" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-14" value="checkType    -检测类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-13" value="RuleCode    -PointRulecode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="286" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-15" value="checkValue    -检测值" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-14" value="checkType    -检测类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
           <mxGeometry y="312" width="290" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-15" value="checkValue    -检测值" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
+          <mxGeometry y="338" width="290" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="5m7yB-Qquv6QhmJtsKDo-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
-          <mxGeometry y="338" width="290" height="8" as="geometry" />
+          <mxGeometry y="364" width="290" height="8" as="geometry" />
         </mxCell>
         <mxCell id="5m7yB-Qquv6QhmJtsKDo-7" value="+ : type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5m7yB-Qquv6QhmJtsKDo-0">
-          <mxGeometry y="346" width="290" height="26" as="geometry" />
+          <mxGeometry y="372" width="290" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
