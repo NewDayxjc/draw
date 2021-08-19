@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T01:49:55.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="kSbEW5k_0KrcaVXHmazd" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-19T01:51:39.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="vqAhqaBzstA3EoomYkWy" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-25" value="VipMaster" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="-413" y="360" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-27" value="VipPoint" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+        <mxCell id="0v7XvNgxlaDYC2Ruj6FT-27" value="VipPointLog" style="html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="-398" y="750" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-31" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="0v7XvNgxlaDYC2Ruj6FT-1" source="0v7XvNgxlaDYC2Ruj6FT-27" target="0v7XvNgxlaDYC2Ruj6FT-6">
