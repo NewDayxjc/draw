@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T04:24:19.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Ewp970Db-UNHZVh-JNXd" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-19T05:51:05.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Zdb93zYYMYNfU3mlH6wB" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c6KwMr1C9ZmebhnOMLPQ" name="会员卡模块">
-    <mxGraphModel dx="2253" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-0" />
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-1" parent="0v7XvNgxlaDYC2Ruj6FT-0" />
@@ -326,7 +326,7 @@
           <mxGeometry x="580" y="1210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-109" value="不同级别升级&amp;nbsp; 累计｜单比消费所需数额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="630" y="1380" width="120" height="51" as="geometry" />
+          <mxGeometry x="680" y="1370" width="120" height="51" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-110" value="消费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="540" y="975" width="120" height="40" as="geometry" />
@@ -380,7 +380,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-132" value="邀新达标数额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
-          <mxGeometry x="660" y="1435" width="110" height="40" as="geometry" />
+          <mxGeometry x="720" y="1435" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-133" value="邀新后消费奖励积分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="810" y="1030" width="130" height="40" as="geometry" />
