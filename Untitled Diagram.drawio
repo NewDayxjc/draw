@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T07:14:58.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="raMpa3Ck85PNePfyS1vT" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-20T07:19:09.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="YEREBjaz6T3s6UPVbN7q" version="14.9.6" type="github" pages="2">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
         <mxCell id="0v7XvNgxlaDYC2Ruj6FT-161" value="用户当天所升级别若消费则降至当天最初级别" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" parent="0v7XvNgxlaDYC2Ruj6FT-1" vertex="1">
           <mxGeometry x="690" y="1285" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5m7yB-Qquv6QhmJtsKDo-27" value="规则在有效期内. &#xa;TriggerWay触发年月日, &#xa;积分和净销售分开处理&#xa;UpgradeValue阈值判断&#xa;ApplicationScope会员适用范围：先处理全部适用&#xa;升降级可同时处理，" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+        <mxCell id="5m7yB-Qquv6QhmJtsKDo-27" value="规则在有效期内. &#xa;TriggerWay触发年月日, &#xa;积分和净销售分开处理  UpgradeType&#xa;UpgradeValue阈值判断&#xa;ApplicationScope会员适用范围：先处理全部适用&#xa;升降级可同时处理，" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
           <mxGeometry x="470" y="1940" width="680" height="200" as="geometry" />
         </mxCell>
       </root>
