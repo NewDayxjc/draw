@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T09:41:58.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="EZu_4pqQv45hjur6P2TA" version="14.9.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-24T10:17:48.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="3iidbOWaieEj3VAzpBz4" version="14.9.8" type="github" pages="3">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -545,7 +545,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LB_xZU-g8bqiDS3y1TfJ" name="流程图模块">
-    <mxGraphModel dx="1426" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-0" />
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-1" parent="_QXpMtTQdxIPQUxjZU9x-0" />
@@ -555,8 +555,8 @@
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-3" value="模块1" style="html=1;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
           <mxGeometry x="130" y="580" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_QXpMtTQdxIPQUxjZU9x-4" value="模块2" style="html=1;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
-          <mxGeometry x="260" y="700" width="110" height="50" as="geometry" />
+        <mxCell id="_QXpMtTQdxIPQUxjZU9x-4" value="模块3" style="html=1;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
+          <mxGeometry x="280" y="710" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
           <mxGeometry x="370" y="810" width="30" height="30" as="geometry" />
@@ -589,7 +589,7 @@
           <mxGeometry y="112" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-23" value="Node" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
-          <mxGeometry x="530" y="664" width="160" height="86" as="geometry" />
+          <mxGeometry x="710" y="494" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-24" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-23">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -602,6 +602,12 @@
         </mxCell>
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-29" value="实现方式：1:通过接口实现" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
           <mxGeometry x="60" y="890" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_QXpMtTQdxIPQUxjZU9x-30" value="Line： 条件字段&#xa;node：&#xa;流程图对应模块功能执行次数&#xa;执行功能是以接口形式执行？" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
+          <mxGeometry x="660" y="720" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_QXpMtTQdxIPQUxjZU9x-31" value="模块2" style="html=1;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
+          <mxGeometry x="40" y="720" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
