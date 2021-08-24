@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T07:41:15.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="lCDYVcK5p2kW7iz050qD" version="14.9.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-24T07:58:04.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="jE965WSpM2fxcSLOqrzD" version="14.9.8" type="github" pages="3">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -549,6 +549,9 @@
       <root>
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-0" />
         <mxCell id="_QXpMtTQdxIPQUxjZU9x-1" parent="_QXpMtTQdxIPQUxjZU9x-0" />
+        <mxCell id="_QXpMtTQdxIPQUxjZU9x-2" value="根据流程图实现各连线模块功能的自动执行&#xa;包含要素：传入参数，功能模块" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_QXpMtTQdxIPQUxjZU9x-1">
+          <mxGeometry x="150" y="350" width="360" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
