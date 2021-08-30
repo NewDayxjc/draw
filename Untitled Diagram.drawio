@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-30T03:48:08.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="CWqbGHD8UfXCYfAzpLK6" version="14.9.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-30T03:49:57.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="W_-fJdIuJ86np93IIUEH" version="14.9.8" type="github" pages="3">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -674,6 +674,9 @@
           <mxGeometry x="-0.4776" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wJA-B7eANKmkhwlsQCuf-47" value="积分及消费类型&#xa;累计有效积分&#xa;单月累计消费&#xa;单笔消费&#xa;当月累计消费&#xa;累计消费" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0v7XvNgxlaDYC2Ruj6FT-1">
+          <mxGeometry x="-15" y="3040" width="320" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
