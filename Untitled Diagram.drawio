@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T03:13:27.665Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ZEqibtbPtnwF6bXiZhR2" version="15.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-31T03:13:46.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Trq7S5mKmFTReqUCR6Zx" version="15.0.3" type="github" pages="3">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1426" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -509,7 +509,7 @@
           <mxGeometry x="690" y="1285" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5m7yB-Qquv6QhmJtsKDo-27" value="规则在有效期内. &#xa;同类型优先处理。字段RuleLevel&#xa;TriggerWay触发年月日, &#xa;积分和净销售分开处理  UpgradeType&#xa;UpgradeValue阈值判断&#xa;ApplicationScope会员适用范围：先处理全部适用&#xa;升降级可同时处理，&#xa;&#xa;升级之后是否需要扣减积分&#xa;升级之后若积分仍满足下一级别升级积分条件是否仍可升级" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0v7XvNgxlaDYC2Ruj6FT-1" vertex="1">
-          <mxGeometry x="460" y="1940" width="680" height="200" as="geometry" />
+          <mxGeometry x="400" y="1970" width="680" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hY5y329LQ58iX302NieU-2" value="新会员注册发卡" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="0v7XvNgxlaDYC2Ruj6FT-1" vertex="1">
           <mxGeometry x="114" y="2385" width="786" height="635" as="geometry" />
