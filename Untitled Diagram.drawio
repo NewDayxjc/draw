@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T07:49:32.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="yq3uI9949H5C3emiEceX" version="15.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-10-29T07:51:20.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="lMu1FMCsPOMFSd_Zi3eS" version="15.0.4" type="github" pages="7">
   <diagram id="rWjVSUUqUaTzuGTJVxDq" name="采购单模块">
     <mxGraphModel dx="1394" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1353,6 +1353,12 @@
         </mxCell>
         <mxCell id="z7rixThO0ZvOeFKoySsy-41" value="vipGrade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z7rixThO0ZvOeFKoySsy-1">
           <mxGeometry x="310" y="980" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z7rixThO0ZvOeFKoySsy-43" value="vipGroup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z7rixThO0ZvOeFKoySsy-1">
+          <mxGeometry x="890" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z7rixThO0ZvOeFKoySsy-44" value="DocOrganizaiton" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z7rixThO0ZvOeFKoySsy-1">
+          <mxGeometry x="890" y="850" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
